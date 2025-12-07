@@ -1,2 +1,2 @@
 # DSA_PROBLEMS
-Dsa problems solved by using language
+Dsa problems solved by using C language
