@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 void main()
 {
     int a[20],b[20],c[40];
@@ -44,12 +44,12 @@ void main()
         printf("%d\t",c[i]);
 
     }
-    printf("\n");
+    
      if(count%2==0)
     {
         n=count/2;
         median=(median = ((float)c[n] + (float)c[n-1]) / 2);
-        printf("the median is %f\n",median);  
+        printf("\nthe median is %f\n",median);  
 
         
     }

@@ -1,0 +1,9 @@
+# Ignore compiled executables (like a.exe)
+*.exe
+*.out
+
+# Ignore VS Code specific settings
+.vscode/
+
+# Ignore C++ debug symbols
+*.dSYM/
